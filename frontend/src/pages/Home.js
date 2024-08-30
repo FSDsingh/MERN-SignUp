@@ -23,7 +23,7 @@ function Home() {
 
     // const fetchProducts = async () => {
     //     try {
-    //         const url = `${process.env.REACT_APP_BACKEND_URL}/auth/products`;
+    //         const url = `https://mern-sign-up-9.vercel.app/auth/products`;
     //         const headers = {
     //             headers: {
     //                 'Authorization': localStorage.getItem('token')
